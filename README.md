@@ -22,5 +22,4 @@ Built to simplify setup, configuration, and customization of CarPlay-compatible 
 
 🛠 **Dependencies**
 
-# Download Asset
-<a href='https://github.com/Xogy/xsound'>HERE</a> 
+Only works with xsound <a href='https://github.com/Xogy/xsound'>HERE</a> 
