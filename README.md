@@ -22,4 +22,4 @@ Built to simplify setup, configuration, and customization of CarPlay-compatible 
 
 🛠 **Dependencies**
 
-Only works with xsound <a href='https://github.com/Xogy/xsound'>HERE</a> 
+- works with xsound <a href='https://github.com/Xogy/xsound'>HERE</a> 
