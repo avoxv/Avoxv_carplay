@@ -1,2 +1,25 @@
-# Avoxv_carplay
-Upgrade your server with my new CarPlay Script — a clean, immersive in-vehicle system that brings a realistic infotainment experience to your game. Featuring a sleek UI, smooth performance, and easy integration, it adds navigation, music, and essential apps right to your dashboard. Lightweight, optimized, and built for seamless roleplay.
+# Support
+Join our discord <a href='https://discord.gg/q4pCAqt34J'>HERE</a> for additional scripts and support!
+
+🚗 **CarPlay Automation Script**
+
+A lightweight script designed to enhance and automate workflows related to **Apple CarPlay** integration.
+
+Built to simplify setup, configuration, and customization of CarPlay-compatible systems.
+
+📌 **Features**
+
+- 🔧 Automated CarPlay configuration
+
+- 🚘 Device detection & connection handling
+
+- ⚙️ Customizable settings
+
+- 📱 Compatible with Apple CarPlay-enabled head units
+
+- 📝 Clean logging & error handling
+
+
+🛠 **Dependencies**
+
+Download Asset: https://github.com/Xogy/xsound
